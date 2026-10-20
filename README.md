@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Aphisit 👋
+About Me
+NOC Engineer with 4+ years of experience in monitoring and incident handling.
 
-<!--
-**AphisitIce/AphisitIce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning Cyber Security with a focus on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Security
+SIEM & Log Analysis
+Splunk
+PortSwigger Web Security Academy
+Burp Suite
+Skills
+Linux
+Windows
+Networking
+Splunk
+SIEM
+SQL
+Burp Suite
+Learning Platforms
+PortSwigger Web Security Academy
+TryHackMe
+Current Goal
+Transitioning from Network Operations Center (NOC) to Cyber Security.
